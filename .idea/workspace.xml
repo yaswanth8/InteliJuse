@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ceb18e-2a86-404f-8ffe-6cbe47019a66" name="Changes" comment="New changes git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663338016865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New changes git">
+      <created>1663338153289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663338153289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New changes git">
+      <created>1663338180205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663338180205</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New changes" />
+    <MESSAGE value="New changes git hub" />
     <MESSAGE value="New changes git" />
     <option name="LAST_COMMIT_MESSAGE" value="New changes git" />
   </component>
